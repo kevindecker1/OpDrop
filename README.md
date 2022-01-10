@@ -1,6 +1,6 @@
 # OpDrop
 
-OpDrop, short for Operation Drop, is an extremely simple solution for running some code (whether it's a block of code or a method), and needing the ability to cancel that code execution.
+OpDrop, short for Operation Drop, in .NET, is an extremely simple solution for running some code (whether it's a block of code or a method), and needing the ability to cancel that code execution.
 
 I came across a need for something like this when working with Background tasks in .NET Core. If a job got hung up for some reason or another, due to poor performance, errors, or endless looping or whatever, I needed a way to be able to cancel the code execution. This provides a very easy solution to do that.
 
