@@ -12,7 +12,7 @@ All you have to do is call the Run method on the Worker class inside the OpDrop 
 ````
 OpDrop.Worker.Run
 ````
-The Run method takes 2 required arguments. The first is a custom identifier (string) so that you can reference it later and either cancel the code and/or retrieve any possible errors.
+The Run method takes 2 required arguments. The first is a custom identifier (string) so that you can reference it later and either cancel the code and/or retrieve any possible errors. The identifier can be whatever you'd like!
 
 Below is an example using a block of code
 
