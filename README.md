@@ -12,6 +12,8 @@ All you have to do is call the Run method on the Worker class inside the OpDrop 
 ````
 OpDrop.Worker.Run
 ````
+The Run method takes 2 required arguments. The first is a custom identifier (string) so that you can reference it later and either cancel the code and retrieve any possible errors.
+
 
 ![opdrop1](https://user-images.githubusercontent.com/10837928/148834104-62935dae-16c5-4ab0-9ed9-6ad1ed2353f8.PNG)
 
