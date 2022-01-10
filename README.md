@@ -4,7 +4,7 @@ OpDrop, short for Operation Drop, is an extremely simple solution for running so
 
 I came across a need for something like this when working with Background tasks in .NET Core. If a job got hung up for some reason or another, due to poor performance, errors, or endless looping or whatever, I needed a way to be able to cancel the code execution. This provides a very easy solution to do that.
 
-Essentially, the code is running in it's own task, and a CancellationTokenSource is assigned to it. Which can then be canceled at any point from anywhere in your code
+Essentially, the code is running in it's own task, and a CancellationTokenSource is assigned to it. Which can then be canceled at any point from anywhere in your code.
 
 # Usage
 
