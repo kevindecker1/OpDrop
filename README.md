@@ -26,3 +26,4 @@ To cancel the code execution simply call the Cancel method on the Worker class. 
 ````
 OpDrop.Worker.Cancel
 ````
+![opdrop3](https://user-images.githubusercontent.com/10837928/148835429-f77c2c7d-3193-4909-8dc5-70bd6f95e9e5.PNG)
