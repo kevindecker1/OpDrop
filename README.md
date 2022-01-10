@@ -27,3 +27,8 @@ To cancel the code execution simply call the Cancel method on the Worker class. 
 OpDrop.Worker.Cancel
 ````
 ![opdrop3](https://user-images.githubusercontent.com/10837928/148835429-f77c2c7d-3193-4909-8dc5-70bd6f95e9e5.PNG)
+
+And finally, you have the ablility to see if an error has occured during the code execution. All you need to do is call the GetError method on the Worker class.
+
+![opdrop4](https://user-images.githubusercontent.com/10837928/148836035-4cc38c19-f62c-44ff-9121-880e27daa662.PNG)
+
