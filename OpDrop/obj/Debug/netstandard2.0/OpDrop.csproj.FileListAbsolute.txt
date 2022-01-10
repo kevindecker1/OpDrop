@@ -1,0 +1,8 @@
+C:\Users\Kevin\source\repos\OpDrop\OpDrop\bin\Debug\netstandard2.0\OpDrop.deps.json
+C:\Users\Kevin\source\repos\OpDrop\OpDrop\bin\Debug\netstandard2.0\OpDrop.dll
+C:\Users\Kevin\source\repos\OpDrop\OpDrop\bin\Debug\netstandard2.0\OpDrop.pdb
+C:\Users\Kevin\source\repos\OpDrop\OpDrop\obj\Debug\netstandard2.0\OpDrop.AssemblyInfoInputs.cache
+C:\Users\Kevin\source\repos\OpDrop\OpDrop\obj\Debug\netstandard2.0\OpDrop.AssemblyInfo.cs
+C:\Users\Kevin\source\repos\OpDrop\OpDrop\obj\Debug\netstandard2.0\OpDrop.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\OpDrop\OpDrop\obj\Debug\netstandard2.0\OpDrop.dll
+C:\Users\Kevin\source\repos\OpDrop\OpDrop\obj\Debug\netstandard2.0\OpDrop.pdb

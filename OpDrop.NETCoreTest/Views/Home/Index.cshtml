@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
+<script>
+
+    function CancelOp() {
+        $.ajax({
+            method: "POST",
+            url: '/Home/CancelOpDrop/',
+            success: function (data) {
+
+            }
+        });
+    }
+
+</script>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <br />
+    <a href="#" onclick="javascript: CancelOp();">Cancel Op</a>
+</div>
