@@ -22,7 +22,7 @@ The next example is passing a method through.
 
 ![opdrop2](https://user-images.githubusercontent.com/10837928/148834990-c4008693-5589-4a1f-a06a-b80f059b2ded.PNG)
 
-To cancel the code execution simply call
+To cancel the code execution simply call the Cancel method on the Worker class. You will need to provide the identifier used when running the code.
 ````
 OpDrop.Worker.Cancel
 ````
