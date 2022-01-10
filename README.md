@@ -8,6 +8,11 @@ Essentially, the code is running in it's own task, and a CancellationTokenSource
 
 # Usage
 
+All you have to do is call 
+````
+**OpDrop.Worker.Run**
+````
+
 ![opdrop1](https://user-images.githubusercontent.com/10837928/148834104-62935dae-16c5-4ab0-9ed9-6ad1ed2353f8.PNG)
 
 
